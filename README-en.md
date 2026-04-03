@@ -43,6 +43,7 @@ A desktop tool for factory lines and batch scenarios: **parallel multi-port flas
 
 ![ESP32-export](pic/export.png)
 
+
 ### Packaging & Run
 
 - **Single-file exe (PyInstaller onefile) friendly**: a dedicated entry **`__ESP32_PYQT_ESPTOOL__`**; the subprocess only runs the `esptool` command line, **so it won’t** spawn another GUI main window.
