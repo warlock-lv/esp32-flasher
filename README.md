@@ -151,7 +151,9 @@ esp32-flash-tool-pyqt/
 ## 致谢
 
 - [esptool](https://github.com/espressif/esptool)  
+
 - [PyQt](https://www.riverbankcomputing.com/software/pyqt/)  
+
 - [PyInstaller](https://pyinstaller.org/)
 
 ---

@@ -38,7 +38,9 @@ A desktop tool for factory lines and batch scenarios: **parallel multi-port flas
 
 ### UI Screenshots
 ![ESP32-main](pic/main.png)
+
 ![ESP32-all](pic/all.png)
+
 ![ESP32-export](pic/export.png)
 
 ### Packaging & Run
